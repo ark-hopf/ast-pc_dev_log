@@ -11,9 +11,9 @@ just_the_docs:
     GitHub Repo:
       - https://github.com/ark-hopf/ast-pc_dev_log
 
-# Ensure custom CSS is loaded
-include:
-  - assets/css/custom.scss
+sass:
+  sass_dir: assets/css
+  style: compressed
 
 markdown: kramdown
 

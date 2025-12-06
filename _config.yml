@@ -1,22 +1,11 @@
-remote_theme: just-the-docs/just-the-docs
-
-plugins:
-  - jekyll-remote-theme
+remote_theme: pmarsceill/just-the-docs
 
 title: Asta PC Dev Log
 description: Development log
 
 just_the_docs:
-  color_scheme: dark
-  favicon_ico: ""
-  logo: ""
-  aux_links:
-    GitHub Repo:
-      - https://github.com/ark-hopf/ast-pc_dev_log
+  color_scheme: light
 
-sass:
-  sass_dir: assets/css
-  style: compressed
-
-markdown: kramdown
+include:
+  - custom1.css
 

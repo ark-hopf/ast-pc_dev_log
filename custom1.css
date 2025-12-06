@@ -1,0 +1,13 @@
+:root {
+	--color-background: #000000;
+	--color-on-background: #ffffff;
+	--color-text: #ffffff;
+	--color-link: #8ab4ff;
+	--color-link-visited: #ff8aff;
+}
+
+body {
+	background: #000000;
+	color: #ffffff;
+}
+

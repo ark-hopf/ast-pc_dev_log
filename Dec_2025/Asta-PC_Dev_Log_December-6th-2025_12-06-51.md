@@ -17,6 +17,12 @@ This is a test.
 
 ![[Pasted image 20251206122024.png]]
 
-Git img:
+Git img (wrong, testing stuff):
 
 ![](Dec_2025/Pasted%20image%2020251206122024.png)
+
+Git option 1:
+![](Pasted%20image%2020251206122024.png)
+
+Git option 2:
+![](./Pasted%20image%2020251206122024.png)

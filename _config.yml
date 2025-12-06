@@ -11,9 +11,9 @@ just_the_docs:
     GitHub Repo:
       - https://github.com/ark-hopf/ast-pc_dev_log
 
-# Tell Jekyll to include root CSS files
+# Ensure custom CSS is loaded
 include:
-  - just-the-docs-dark.css
+  - assets/css/custom.scss
 
 markdown: kramdown
 

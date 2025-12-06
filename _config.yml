@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
+
+# Site settings
+title: Asta PC Dev Log
+description: Development log
+
+# Theme settings
+just_the_docs:
+  color_scheme: dark
+  logo: ""
+  aux_links:
+    GitHub Repo:
+      - https://github.com/ark-hopf/ast-pc_dev_log
+
+# Build settings
+markdown: kramdown
+

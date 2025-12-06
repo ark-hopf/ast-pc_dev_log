@@ -1,3 +1,9 @@
+---
+title: December 2025
+nav_order: 10
+has_children: true
+---
+
 # Devlog
 
 ## December 2025

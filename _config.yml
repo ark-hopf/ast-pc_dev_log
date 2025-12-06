@@ -5,7 +5,3 @@ description: Development log
 
 just_the_docs:
   color_scheme: light
-
-include:
-  - custom1.css
-

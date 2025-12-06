@@ -1,0 +1,22 @@
+/* Force dark mode variables */
+:root {
+    --color-background: #000000 !important;
+    --color-on-background: #ffffff !important;
+    --color-text: #ffffff !important;
+    --color-link: #8ab4ff !important;
+    
+    /* You likely need these too for the sidebar */
+    --color-sidebar-bg: #000000 !important;
+    --color-sidebar-text: #ffffff !important;
+    --color-border: #333333 !important;
+}
+
+body {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+/* Ensure the sidebar matches */
+.side-bar {
+    background-color: #000000 !important;
+}
